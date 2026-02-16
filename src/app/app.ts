@@ -11,7 +11,7 @@ import { Movieservice } from './movieservice';
 })
 
 export class App {
-  protected readonly title = signal('Web_Worksheet3');
+  protected readonly title = signal('Web_Worksheet3 - Serhii Keshle S00274238');
   protected movieService = inject(Movieservice);
 }
 //   constructor() {
